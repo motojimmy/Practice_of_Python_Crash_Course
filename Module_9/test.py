@@ -1,6 +1,5 @@
 class Car():
     """一次模拟汽车的简单尝试"""
-
     def __init__(self, make, model, year):
         self.make = make
         self.model = model
@@ -23,3 +22,4 @@ class ElectricCar(Car):
 my_besla = ElectricCar('tesla', 'model s', 2016)
 print(my_besla.get_descriptive_name())
 my_besla.descriptive_battery()
+

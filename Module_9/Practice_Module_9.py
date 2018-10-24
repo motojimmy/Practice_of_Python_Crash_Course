@@ -290,5 +290,18 @@ my_tesla.battery.get_range()
 print("\n**************************************************")
 print("< 9-10 >")
 
+from restaurant import Restaurant
+
+new_restaurant_01 = Restaurant('jing wei zhai', 'chinese food')
+new_restaurant_01.describe_restaurant()
 
 
+
+print("\n**************************************************")
+print("< 9-11 >")
+
+from user import Privileges
+
+admin_02 = Admin('jimmy', 'fang', 'male', 34)
+
+admin_02.privileges.show_privileges()
