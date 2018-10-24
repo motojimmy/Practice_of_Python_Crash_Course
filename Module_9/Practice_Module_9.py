@@ -305,3 +305,22 @@ from user import Privileges
 admin_02 = Admin('jimmy', 'fang', 'male', 34)
 
 admin_02.privileges.show_privileges()
+
+
+
+print("\n**************************************************")
+print("< 9-12 >")
+
+from privileges_admin import Admin, Privileges
+
+admin_03 = Admin('jimmy', 'fang', 'male', 34)
+
+admin_03.privileges.show_privileges()
+
+
+
+print("\n**************************************************")
+print("< 9-13 >")
+
+
+
