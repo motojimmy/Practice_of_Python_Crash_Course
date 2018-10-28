@@ -38,3 +38,10 @@ for name, explain in dic_01.items():
     print(name.title() + ": " + explain.title())
 
 
+x = range(1,11)
+
+for n in x:
+    print(n)
+
+
+
