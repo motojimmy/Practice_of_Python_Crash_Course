@@ -1,0 +1,4 @@
+In Python you can do the data analysis.
+In Python you can create games.
+In Python you can paint draw the plot.
+In Python you can make a lot of useful tools.
